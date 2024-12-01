@@ -24,6 +24,7 @@ const pizzaData = [
       soldOut: false,
     },
     {
+      
       name: "Pizza Funghi",
       ingredients: "Tomato, mozarella, mushrooms, and onion",
       price: 12,
